@@ -1,6 +1,5 @@
-// Función simulada de envío de correo electrónico (como se menciona en los requisitos)
+
 function enviarEmail(de, para, mensaje) {
-  // Esto es solo una simulación
   console.log(`Enviando correo electrónico de ${de} a ${para}: ${mensaje}`);
 }
 
